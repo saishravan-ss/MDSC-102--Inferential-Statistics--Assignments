@@ -1,1 +1,1 @@
-# MDSC-102--Inferential-Statistics--Assignments
+# MDSC-102-Inferential-Statistics--Assignments
